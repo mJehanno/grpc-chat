@@ -1,0 +1,6 @@
+[submodule "gchat"]
+	path = gchat
+	url = https://github.com/mJehanno/grpc-chat-client.git
+[submodule "grpc-chat"]
+	path = grpc-chat
+	url = https://github.com/mJehanno/grpc-chat-server.git
